@@ -11,7 +11,7 @@ Key Features
 
 -Data Collection & Preprocessing:
 
-Collected tweets from social media APIs.
+Collected tweets.
 
 Cleaned text (removed URLs, emojis, punctuation, and stopwords).
 
